@@ -48,6 +48,28 @@ This dashboard compares health indicators across countries and regions to reveal
 These dashboards describe the supplied datasets. Comparisons should be interpreted alongside coverage, time period, population size and indicator definitions. Visual patterns identify areas for further analysis but do not establish cause.
 
 
+## Verified findings
+
+### UK employment
+
+- Total employment across the dataset increased by **443,272 jobs**, from **14,072,108 in 2011** to **14,515,380 in 2014**.
+- London recorded the largest city-level increase at **373,892 jobs**.
+- Professional, scientific and technical activities produced the largest industry increase at **134,659 jobs**.
+- Public administration and defence experienced the largest industry decline, losing **49,538 jobs**.
+- London's professional, scientific and technical sector delivered the largest individual city-industry increase: **103,578 jobs**, or **19.4%**.
+
+### Global health
+
+- Europe recorded the highest average life expectancy in both **1990 (73.9 years)** and **2008 (77.4 years)**.
+- Africa had the lowest continental average in **2008 at 58.7 years**, around **18.7 years below Europe**.
+- Asia recorded the largest improvement between 1990 and 2008, increasing by approximately **6.0 years**.
+- Japan had the highest country-level average life expectancy in 2008 at **82.7 years**.
+- The Central African Republic had the lowest country-level average in 2008 at **46.2 years**.
+
+## Business recommendation
+
+Employment support should account for substantial regional and industry differences rather than relying only on the positive national total. The health analysis highlights the need to prioritise countries and regions with persistently low life expectancy while investigating which policies and conditions are associated with stronger improvements.
+
 ## Author
 
 **Euan Williams** — Junior Business Intelligence & Data Analyst  
