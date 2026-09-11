@@ -1,45 +1,60 @@
-# Tableau-Projects
+# Tableau Analytics | Employment & Global Health
 
-# Golbal health & Employment dashboard
+![Tableau](https://img.shields.io/badge/Tableau-Interactive%20Dashboards-E97627?logo=tableau&logoColor=white) ![Status](https://img.shields.io/badge/status-complete-2E8B57)
 
-Data Technician Bootcamp - Week 2 
+Two interactive Tableau dashboards demonstrating how employment and health datasets can be transformed into accessible visual stories using calculated fields, filters, maps and purposeful dashboard design.
 
-These dashboards were developed as part of a Data Technician Bootcamp and focus on analysing global health and employment data** using Tableau. The aim was to transform complex, real-world datasets into clear, interactive dashboards that highlight key trends, patterns, and insights.
+## UK employment insights
 
-The Global Health Dashboard explores indicators such as life expectancy, disease prevalence, and healthcare access to provide a broad view of health outcomes across different regions.
+[Open the interactive Employment Dashboard](https://public.tableau.com/views/EmploymentDashboard_17706531227720/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-The Employment Dashboard analyses workforce trends, including employment rates, industry distribution, and demographic patterns, helping to uncover insights into labour market dynamics.
+![UK Employment Dashboard](https://github.com/user-attachments/assets/dc5a69ad-3985-469a-9d06-23d0128cf20f)
 
-Together, these dashboards demonstrate the ability to turn raw data into meaningful visual stories that support informed decision-making.
+This dashboard explores changing employment patterns across the UK, combining ranked comparisons with geographic context.
 
-## 🚀 Key Skills Demonstrated
-- **Interactive Dashboards:** Designed dynamic dashboards to explore sales performance and trends.
-- **Filters & Parameters:** Enabled users to interact with the data through filters and slicers.
-- **Calculated Fields:** Created custom calculations to generate meaningful business metrics.
-- **Data Visualisation:** Built multiple visualisations including bar charts, line charts, pie charts, and geographic maps**.
-- **Data Storytelling:** Structured dashboards to communicate insights clearly and support data-driven decision making.
+## Global health insights
 
-## 📁 Project Overview
-- Job Change analysis (bar chart + UK map)
-- NHS Health dataset analysis & recommendations
-- Screenshots of dashboards created
+[Open the interactive Global Health Dashboard](https://public.tableau.com/views/GlobalHealthInsightsDashboard_17707349784700/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## 🧠 Key Learning Outcomes
-- Turn raw data into interactive dashboards
-- Build maps and location‑based visualisations
-- Present insights in a compelling visual format
-- Use Tableau to support real‑world decision‑making
-- Communicate complex analysis clearly
-- Understand how Tableau fits into a wider BI workflow
+![Global Health Dashboard](https://github.com/user-attachments/assets/a38af1de-5d9b-4e50-9104-d99e61a13255)
 
-## 📸 Dashboards
+This dashboard compares health indicators across countries and regions to reveal differences that may warrant deeper investigation.
 
-[Employment insights Link](https://public.tableau.com/views/EmploymentDashboard_17706531227720/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## Questions explored
 
-<img width="2493" height="1198" alt="Screenshot 2026-03-17 160859" src="https://github.com/user-attachments/assets/dc5a69ad-3985-469a-9d06-23d0128cf20f" />
+- How do employment patterns differ across UK locations?
+- Which regions show the greatest employment change?
+- How do health outcomes compare across countries and regions?
+- How can filters move users from an overview to a focused comparison?
 
+## Skills demonstrated
 
+| Area | Evidence |
+|---|---|
+| Data preparation | Structured Excel sources for Tableau |
+| Calculated fields | Metrics supporting useful comparisons |
+| Visual analysis | Bar charts, comparisons and maps |
+| Interactivity | Filters and parameters |
+| Dashboard design | Clear hierarchy and readable labels |
+| Data storytelling | Connected visuals forming a coherent narrative |
 
-[Global health dashboard Link](https://public.tableau.com/views/GlobalHealthInsightsDashboard_17707349784700/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## Source files
 
-<img width="1343" height="1195" alt="Screenshot 2026-03-17 160830" src="https://github.com/user-attachments/assets/a38af1de-5d9b-4e50-9104-d99e61a13255" />
+- [UK employment dataset](EMSI_JobChange_UK%20%281%29.xlsx)
+- [Global health dataset](GapminderHealth%20%281%29.xlsx)
+
+## Analytical considerations
+
+These dashboards describe the supplied datasets. Comparisons should be interpreted alongside coverage, time period, population size and indicator definitions. Visual patterns identify areas for further analysis but do not establish cause.
+
+## Next steps
+
+- Add concise written findings beneath each dashboard
+- Document calculated fields and dataset definitions
+- Add population-normalised measures where appropriate
+- Improve accessibility with colour-blind-safe palettes and detailed tooltips
+
+## Author
+
+**Euan Williams** — Junior Business Intelligence & Data Analyst  
+[View my full portfolio](https://github.com/Euanwilliams98)
