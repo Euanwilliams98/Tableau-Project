@@ -47,12 +47,6 @@ This dashboard compares health indicators across countries and regions to reveal
 
 These dashboards describe the supplied datasets. Comparisons should be interpreted alongside coverage, time period, population size and indicator definitions. Visual patterns identify areas for further analysis but do not establish cause.
 
-## Next steps
-
-- Add concise written findings beneath each dashboard
-- Document calculated fields and dataset definitions
-- Add population-normalised measures where appropriate
-- Improve accessibility with colour-blind-safe palettes and detailed tooltips
 
 ## Author
 
